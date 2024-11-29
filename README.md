@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="dark-souls-bonfire.gif" width="200"/>
+  <img src="dark-souls-bonfire.gif" width="400" height="200"/>
 </div>
 
 
