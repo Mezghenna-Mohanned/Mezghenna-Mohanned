@@ -36,7 +36,7 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
 
 ### GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=contribs&theme=react)](https://github.com/your-github-username)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=contribs&theme=react)](https://github.com/Mohanned29)
 
 
 ### 📫 Get in Touch
