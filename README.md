@@ -3,13 +3,13 @@
 </div>
 
 
-# Hello World! I'm Mezghenna Mohanned 👾
+# Hello World! I'm Mohanned 👾
 
-**`AI Enthusiast | Machine Learning Explorer | Algorithm Creator`**
+**`Python Lover | JS Hater | Algorithm Creator`**
 
-I'm a 3rd-year software engineering student at USTHB with a deep passion for Artificial Intelligence and Machine Learning. I enjoy crafting solutions and algorithms that simplify complex problems. When I'm not coding, you'll find me playing league.
+I'm a 3rd-year software engineering student at USTHB with a deep passion for Artificial Intelligence and Machine Learning. I love making algorithms that simplify complex problems. When I'm not coding, you'll find me playing league.
 
-### 🚀 Tech Journey
+### Tech Journey
 
 - **Programming Languages**: Python, Java, C
 - **AI & ML**: TensorFlow, PyTorch, NLP, Pandas, NumPy
@@ -34,7 +34,7 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=contribs&theme=react)](https://github.com/your-github-username)
 
