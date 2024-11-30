@@ -10,15 +10,6 @@
 I'm a 3rd-year software engineering student at USTHB with a deep passion for Artificial Intelligence and Machine Learning. I love making algorithms that simplify complex problems. When I'm not coding, you'll find me playing league.
 
 
-### Tech Stack
-
-- **Programming Languages**: Python, Java, C
-- **AI & ML**: TensorFlow, PyTorch, Keras, scikit-learn, NLTK, spaCy, Pandas, NumPy
-- **Web Development**: Flask, Django
-- **Data Science & Visualization**: Matplotlib, Seaborn, Plotly
-- **Databases**: MongoDB, PostgreSQL, MySQL, SQLite
-- **Version Control**: Git, GitHub
-- **Tools**: VS Code, Jupyter Notebooks
 
 ---
 
@@ -52,9 +43,14 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
 
 ---
 
-### GitHub Stats
+## &#x1f4c8; GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide=contribs&theme=react)](https://github.com/Mohanned29)
+<a href="https://github.com/Mohanned29/Mohanned29.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohanned29&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Mohanned's GitHub Stats" />
+</a>
+<a href="https://github.com/Mohanned29/Mohanned29.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanned29&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+</a>
 
 
 ### 📫 Get in Touch
