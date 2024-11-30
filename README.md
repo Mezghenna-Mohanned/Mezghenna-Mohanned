@@ -31,10 +31,7 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
   <img align="left" alt="Raylib" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.7c54bb1783af73666c12229682a68b19?rik=oxfzmOU4rTeJ9Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff4%2fRaylib_logo.png&ehk=CKLOco9mjDOBUVJgMps23gatd3tmsX%2b6f%2bzKEdLvt%2b4%3d&risl=&pid=ImgRaw&r=0" />
   <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-</div>
+
 
 
 <br />
