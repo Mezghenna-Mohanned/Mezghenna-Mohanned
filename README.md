@@ -2,15 +2,11 @@
   <img src="dark-souls-bonfire.gif" width="400" height="200"/>
 </div>
 
-
 # Hello World! I'm Mohanned <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJoM2JmcGY0ZTNoZHppbHBlc2EzaXg0NXhyZmlmbGJhYnA3bTFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GEi6jx9kdjnaAdRH91/giphy.gif" width="60px" height="60px" />
-
 
 **`Python Lover | JS Hater | Algorithm Creator`**
 
 I'm a 3rd-year software engineering student at USTHB with a deep passion for Artificial Intelligence and Machine Learning. I love making algorithms that simplify complex problems. When I'm not coding, you'll find me playing league.
-
-
 
 ---
 
@@ -32,24 +28,22 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
   <img align="left" alt="Raylib" width="30px" style="padding-right:10px;" src="https://th.bing.com/th/id/R.7c54bb1783af73666c12229682a68b19?rik=oxfzmOU4rTeJ9Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff4%2fRaylib_logo.png&ehk=CKLOco9mjDOBUVJgMps23gatd3tmsX%2b6f%2bzKEdLvt%2b4%3d&risl=&pid=ImgRaw&r=0" />
   <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
-
+</div>
 
 <br />
-
 <br />
 
 ---
 
-## &#x1f4c8; GitHub Stats
+## 📊 GitHub Stats
 
-<a href="https://github.com/Mohanned29/Mohanned29.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohanned29&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Mohanned's GitHub Stats" />
-</a>
-<a href="https://github.com/Mohanned29/Mohanned29.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanned29&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohanned29&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohanned29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Mohanned29&theme=dark&card_height=170" height="170" alt="" />
+</div>
 
+---
 
 ### 📫 Get in Touch
 
