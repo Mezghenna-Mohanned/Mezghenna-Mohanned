@@ -4,7 +4,7 @@
 
 # Hello World! I'm Mohanned <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJoM2JmcGY0ZTNoZHppbHBlc2EzaXg0NXhyZmlmbGJhYnA3bTFyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GEi6jx9kdjnaAdRH91/giphy.gif" width="60px" height="60px" />
 
-**`Python Lover | JS Hater | Algorithm Creator`**
+**`Python Enjoyer | JS Hater | Algorithm Creator`**
 
 I'm a 3rd-year software engineering student at USTHB with a deep passion for Artificial Intelligence and Machine Learning. I love making algorithms that simplify complex problems. When I'm not coding, you'll find me playing League.
 
