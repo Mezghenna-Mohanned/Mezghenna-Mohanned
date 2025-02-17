@@ -36,11 +36,11 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohanned29&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohanned29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="languages graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohanned29&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohanned29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="Languages Graph" />
+</p>
 
-</div>
 
 ---
 
