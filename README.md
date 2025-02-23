@@ -32,26 +32,4 @@ I'm a 3rd-year software engineering student at USTHB with a deep passion for Art
 
 <br />
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohanned29&show_icons=true&theme=dark" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohanned29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" alt="Languages Graph" />
-</p>
-
-
----
-
-## 📫 Get in Touch
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohanned-mezghenna-2b8131257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  
-  <a href="mailto:mezh2911@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
-  </a>
-</div>
