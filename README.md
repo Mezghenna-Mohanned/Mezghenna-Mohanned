@@ -6,11 +6,3 @@ I love AI, yet I still can't figure out how Soulsborne bosses think. 🤔
 
 ---
 
-## Most Used Languages
-
-<div align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mezghenna-Mohanned&layout=compact&card_width=1000" 
-       alt="Top Languages"
-  />
-</div>
