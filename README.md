@@ -2,7 +2,7 @@
 
 **`Python Enjoyer | JS Hater | Algorithm Maker`**  
 
-I love AI, yet I still can't figure out how Soulsborne bosses think. 🤔
+I love creating, yet I still can't figure out how to create
 
 ---
 
