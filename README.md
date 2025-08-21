@@ -2,7 +2,7 @@
 
 **`Python Enjoyer | JS Hater | Algorithm Maker`**  
 
-I love creating, yet I still can't figure out how to create
+I love creating, yet i still can't figure out how to create
 
 ---
 
